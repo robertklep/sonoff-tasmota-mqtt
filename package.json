@@ -1,0 +1,12 @@
+{
+  "name": "sonoff-tasmota-mqtt",
+  "version": "1.0.0",
+  "description": "Sonoff Tasmota MQTT",
+  "main": "index.js",
+  "author": "Robert Klep <robert@klep.name>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "mqtt": "^2.15.3"
+  }
+}
